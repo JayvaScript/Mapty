@@ -1,2 +1,2 @@
 # Mapty
-Implementation of Mapty following Udemy by Jonas Schmedtmann
+Implementation of Mapty following Udemy course by Jonas Schmedtmann.
